@@ -4,14 +4,11 @@ metadata:
   name: "idpnest20"
   description: "A component that is part of the DevSecOps catalog"
   annotations:
-    
     jenkins.io/job-full-name: idpnest20-org/idpnest20-job
-    
-
-    
+    "datadoghq.com/dashboard-url": "https://p.ap1.datadoghq.com/sb/8d681aca-0881-11f0-bf95-f237726dd4d7-f25d80da55b5999a5857493672dcd582"
+    "datadoghq.com/site": "ap1.datadoghq.com"
+    "datadoghq.com/graph-token": "81ffbf6a6fcdfc539444c32a7cc0baba5b3caa4cb56a778374233d70589745bc"
     sonarqube.org/project-key: default/idpnest20
-    
-
     dependencytrack/project-id: "f20148a2-a8be-4169-bb65-11437b951b0a"
     iap/app-info: "1/452a1857-b474-400c-8681-4e34f95500de"
     backstage.io/techdocs-ref: dir:.
